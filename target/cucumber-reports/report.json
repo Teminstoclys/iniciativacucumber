@@ -1,0 +1,91 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#language: pt"
+      }
+    ],
+    "line": 3,
+    "elements": [
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 5563834600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "que o usuario acesse a page do google",
+            "match": {
+              "location": "GoogleSteps.queOUsuarioAcesseAPageDoGoogle()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "name": "Acessar a youtube e da play em uma musica",
+        "description": "",
+        "id": "realizar-pesquisa-no-google;acessar-a-youtube-e-da-play-em-uma-musica",
+        "type": "scenario",
+        "keyword": "Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 2431835100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "digitar na page do google youtube e clicar em pesquisar",
+            "match": {
+              "location": "GoogleSteps.digitarNaPageDoGoogleYoutubeEClicarEmPesquisar()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 8014493400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "escolher a musica e depois da o play a musica sera tocada",
+            "match": {
+              "location": "GoogleSteps.escolherAMusicaEDepoisDaOPlayAMusicaSeraTocada()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 849655100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "sera exibido resultado em tela",
+            "match": {
+              "location": "GoogleSteps.seraExibidoResultadoEmTela()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      }
+    ],
+    "name": "Realizar pesquisa no google",
+    "description": "",
+    "id": "realizar-pesquisa-no-google",
+    "keyword": "Funcionalidade",
+    "uri": "google.feature",
+    "tags": [
+      {
+        "line": 2,
+        "name": "@google"
+      }
+    ]
+  }
+]

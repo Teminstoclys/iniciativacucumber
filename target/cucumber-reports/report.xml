@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="16.859818">
+    <testcase classname="Realizar pesquisa no google" name="Acessar a youtube e da play em uma musica" time="16.859818">
+        <system-out><![CDATA[Dado que o usuario acesse a page do google..................................passed
+Quando digitar na page do google youtube e clicar em pesquisar..............passed
+Quando escolher a musica e depois da o play a musica sera tocada............passed
+Entao sera exibido resultado em tela........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
