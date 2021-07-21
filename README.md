@@ -17,6 +17,9 @@ Iniciativa cucumber é uma automação simples de testes. A aplicação consiste
 - Chrome Webdriver "https://chromedriver.chromium.org/downloads"
 - Baixar os projetos do repositório e realizar a importação para uma das IDEA mencionadas.
 
+# Vídeo do Cenário de Teste
+
+
 # Autor
 
 - PINHEIRO, Temínstoclys Coelho
