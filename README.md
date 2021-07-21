@@ -19,6 +19,8 @@ Iniciativa cucumber é uma automação simples de testes. A aplicação consiste
 
 # Vídeo do Cenário de Teste
 
+#### Segue o link para baixar o vídeo
+[Cenário de Teste](https://github.com/Teminstoclys/iniciativacucumber/blob/main/Iniciativa%20Cucumber.mp4)
 
 # Autor
 
