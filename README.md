@@ -21,4 +21,4 @@ Iniciativa cucumber é uma automação simples de testes. A aplicação consiste
 
 - PINHEIRO, Temínstoclys Coelho
 
-- https://www.linkedin.com/in/tem%C3%ADnstoclys-pinheiro-7130b990/
+- https://www.linkedin.com/in/temínstoclys-pinheiro-7130b990
