@@ -15,7 +15,7 @@ Iniciativa cucumber é uma automação simples de testes. A aplicação consiste
 # Como executar o projeto
 - IDEA (Intelij ou Eclipse)
 - Chrome Webdriver "https://chromedriver.chromium.org/downloads"
-- Baixar os projetos do repositório e realizar a importação para um das IDEA mencionadas.
+- Baixar os projetos do repositório e realizar a importação para uma das IDEA mencionadas.
 
 # Autor
 
